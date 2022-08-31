@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: LuaMagic
+## Notes: wowmagic's game event wrapper
+## Author: blitz
+## Version: 0.0.1
+
+LuaMagic.lua
